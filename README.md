@@ -1,4 +1,4 @@
-# DenimNani repository
+# peno kodi addons
 ## Current Version: 0.0.1
 
 Instalation instructions:
@@ -8,12 +8,9 @@ Instalation instructions:
   <ul>
     <li>Go to the Kodi file manager.</li>
     <li>Click on "Add source".</li>
-    <li>The path for the source is <code>https://peno64.github.io/</code> (Give it some name like "DenimNani Repo").</li>
+    <li>The path for the source is <code>https://peno64.github.io/</code> (Give it some name like "peno addons").</li>
     <li>Go to "Addons".</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "DenimNani Repo", and install <a href="service.subloader-master.zip">service.subloader-master.zip</a>.</li>
-    <li>Go back to Addons install, but this time, select "Install from repository"</li>
-    <li>Select the "DenimNani Repo".</li>
-    <li>Then install any addon you whant, like "Services" "SubLoader".</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "peno  addons", and install <a href="service.subtitles.localsubtitle_1_2_0.zip">service.subtitles.localsubtitle_1_2_0.zip</a>.</li>
   </ul>
 </p>
 
