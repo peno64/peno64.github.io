@@ -1,6 +1,6 @@
 # peno kodi addons
 
-Instalation instructions:
+Installation instructions:
 
 
 <p align="left">
