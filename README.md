@@ -12,9 +12,9 @@ Installation instructions:
     <li>In "Addons", choose "Install from zip file". When it asks for the location, select "peno addons", and install one of the following zip file:
       <ul>
         <li><a href="script.RealDebrid.vpn-1.1.0.zip">script.RealDebrid.vpn-1.1.0.zip</a> : Real Debrid vpn check addon</li>
-        <li><a href="script.RealDebrid.vpn-1.2.0.zip">script.RealDebrid.vpn-1.2.0.zip</a> : Real Debrid vpn check addon Matrix (kodi 19)</li>
+        <li><a href="script.RealDebrid.vpn-1.2.0_Matrix.zip">script.RealDebrid.vpn-1.2.0_Matrix.zip</a> : Real Debrid vpn check addon Matrix (kodi 19)</li>
         <li><a href="service.subtitles.localsubtitle_1_2_0.zip">service.subtitles.localsubtitle_1_2_0.zip</a> : Local subtitles addon</li>
-        <li><a href="service.subtitles.localsubtitle_1_3_0.zip">service.subtitles.localsubtitle_1_3_0.zip</a> : Local subtitles addon Matrix (kodi 19)</li>
+        <li><a href="service.subtitles.localsubtitle_1_3_0_Matrix.zip">service.subtitles.localsubtitle_1_3_0_Matrix.zip</a> : Local subtitles addon Matrix (kodi 19)</li>
       </ul>
     </li>
   </ul>
