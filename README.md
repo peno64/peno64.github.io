@@ -13,7 +13,7 @@ Installation instructions:
       <ul>
         <li><a href="script.RealDebrid.vpn-1.3.0.zip">script.RealDebrid.vpn-1.3.0.zip</a> : Real Debrid vpn check addon</li>
         <li><a href="service.subtitles.localsubtitle_1_4_0.zip">service.subtitles.localsubtitle_1_4_0.zip</a> : Local subtitles addon</li>
-        <li><a href="script.ezmaintenanceplus_Matrix.zip">script.ezmaintenanceplus_Matrix.zip</a> : EZ Maintenance+ Matrix (Kodi 19)</li>
+        <li><a href="script.ezmaintenanceplus.zip">script.ezmaintenanceplus.zip</a> : EZ Maintenance+ (Kodi 18/19)</li>
       </ul>
     </li>
   </ul>
