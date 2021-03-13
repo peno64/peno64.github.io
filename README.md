@@ -15,6 +15,8 @@ Installation instructions:
         <li><a href="script.RealDebrid.vpn-1.3.0.zip">script.RealDebrid.vpn-1.3.0.zip</a> : Real Debrid vpn check addon (Kodi 18/19)</li>
         <li><a href="script.realdebrid.zip">script.realdebrid.zip</a> : Unofficial RealDebrid client (Kodi 18/19)</li>
         <li><a href="script.ezmaintenanceplus.zip">script.ezmaintenanceplus.zip</a> : EZ Maintenance+ (Kodi 18/19)</li>
+        <li><a href="plugin.video.seren.Kodi18(Leia).zip">plugin.video.seren.Kodi18(Leia).zip</a> : Seren addon with temp fix search tv shows (only Kodi 18 (Leia))</li>
+        <li><a href="plugin.video.seren.Kodi19(Matrix).zip">plugin.video.seren.Kodi19(Matrix).zip</a> : Seren addon with temp fix search tv shows (only Kodi 19 (Matrix))</li>
       </ul>
     </li>
   </ul>
