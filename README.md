@@ -1,5 +1,9 @@
 # peno kodi addons
 
+This method is obsolete. Please use the repository https://peno64.github.io/repository.peno64/
+
+<!--
+
 Installation instructions:
 
 
@@ -21,3 +25,5 @@ Installation instructions:
 </p>
 
 ## Enjoy!
+
+-->
