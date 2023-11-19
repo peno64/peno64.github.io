@@ -3,3 +3,5 @@
 This method is obsolete. Please use the repository https://peno64.github.io/repository.peno64/
 <br>
 See <a href="https://kodi.wiki/view/Add-on_manager">https://kodi.wiki/view/Add-on_manager</a>
+
+<a href="script.IPTVManager.Fix.zip">script.IPTVManager.Fix.zip</a>
